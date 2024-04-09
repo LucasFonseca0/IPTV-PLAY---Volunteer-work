@@ -64,7 +64,7 @@ const screenArea = screenWidth * screenHeight;
 particlesJS('particles-js', {
   "particles": {
     "number": {
-      "value": 400,
+      "value": 300,
       "density": {
         "enable": true,
         "value_area": 2000
@@ -80,7 +80,7 @@ particlesJS('particles-js', {
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 4
+        "nb_sides": 3
       },
       "image": {
         "src": "img/github.svg",
