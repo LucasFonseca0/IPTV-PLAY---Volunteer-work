@@ -6,7 +6,7 @@ const apps = [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
         ],
-        downloadURL: "./apps/IboPlay 3.8.apk"
+        downloadURL: "./src/apps/IboPlay 3.8.apk"
     },
     {
         nome: "IPTV Play",
@@ -15,7 +15,7 @@ const apps = [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
         ],
-        downloadURL: "./apps/IPTV Play.apk"
+        downloadURL: "./src/apps/IPTV Play.apk"
     },
     {
         nome: "IPTV Smarters",
@@ -24,7 +24,7 @@ const apps = [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
         ],
-        downloadURL: "./apps/iptv-smarters-pro-4-0.apk"
+        downloadURL: "./src/apps/iptv-smarters-pro-4-0.apk"
     },
     {
         nome: "XC IPTV",
@@ -33,7 +33,7 @@ const apps = [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
         ],
-        downloadURL: "./apps/XCIPTV_6.0.apk"
+        downloadURL: "./src/apps/XCIPTV_6.0.apk"
     }
 ];
 
