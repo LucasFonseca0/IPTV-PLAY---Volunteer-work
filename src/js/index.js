@@ -43,7 +43,7 @@ apps.forEach((app) => {
     const appCard = document.createElement("div");
     appCard.classList.add("max-w-md", "mx-auto", "mb-6", "bg-white", "rounded-xl", "overflow-hidden", "shadow-md", "hover:shadow-lg", "flex", "flex-col", "md:flex-row", "md:max-w-2xl");
     appCard.innerHTML = `
-        <img class="h-56 w-full md:w-72 object-cover md:object-contain" src="${app.url}" alt="${app.nome}">
+        <img class="h-56 w-full md:w-72 object-contain" src="${app.url}" alt="${app.nome}">
         <div class="p-6 flex flex-col justify-between">
             <h2 class="text-2xl font-bold mb-4">${app.nome}</h2>
             <ul class="pl-0 mb-4 md:mb-0">
