@@ -1,40 +1,40 @@
 const apps = [
-    {
-        nome: "IboPlay 3.8",
-        url: "./images/moreImages/01.png",
-        vantagens: [
-            "App Exclusivo!",
-            "Funciona em qualquer dispositivo Android!"
-        ],
-        downloadURL: "./src/apps/IboPlay 3.8.apk"
-    },
-    {
-        nome: "IPTV Play",
-        url: "./images/moreImages/02.png",
-        vantagens: [
-            "App Exclusivo!",
-            "Funciona em qualquer dispositivo Android!"
-        ],
-        downloadURL: "./src/apps/IPTV Play.apk"
-    },
-    {
-        nome: "IPTV Smarters",
-        url: "./images/moreImages/03.jpg",
-        vantagens: [
-            "App Exclusivo!",
-            "Funciona em qualquer dispositivo Android!"
-        ],
-        downloadURL: "./src/apps/iptv-smarters-pro-4-0.apk"
-    },
-    {
-        nome: "XC IPTV",
-        url: "./images/moreImages/04.jpg",
-        vantagens: [
-            "App Exclusivo!",
-            "Funciona em qualquer dispositivo Android!"
-        ],
-        downloadURL: "./src/apps/XCIPTV_6.0.apk"
-    }
+  {
+      nome: "IboPlay 3.8",
+      url: "./images/moreImages/01.png",
+      vantagens: [
+          "App Exclusivo!",
+          "Funciona em qualquer dispositivo Android!"
+      ],
+      downloadURL: "./src/apps/IboPlay 3.8.apk"
+  },
+  {
+      nome: "IPTV Play",
+      url: "./images/moreImages/02.png",
+      vantagens: [
+          "App Exclusivo!",
+          "Funciona em qualquer dispositivo Android!"
+      ],
+      downloadURL: "./src/apps/IPTV Play.apk"
+  },
+  {
+      nome: "IPTV Smarters",
+      url: "./images/moreImages/03.jpg",
+      vantagens: [
+          "App Exclusivo!",
+          "Funciona em qualquer dispositivo Android!"
+      ],
+      downloadURL: "./src/apps/iptv-smarters-pro-4-0.apk"
+  },
+  {
+      nome: "XC IPTV",
+      url: "./images/moreImages/04.jpg",
+      vantagens: [
+          "App Exclusivo!",
+          "Funciona em qualquer dispositivo Android!"
+      ],
+      downloadURL: "./src/apps/XCIPTV_6.0.apk"
+  }
 ];
 
 const appsContainer = document.getElementById("apps");
