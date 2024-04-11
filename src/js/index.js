@@ -1,7 +1,7 @@
 const apps = [
     {
         nome: "IboPlay 3.8",
-        url: "../images/moreImages/01.png",
+        url: "./images/moreImages/01.png",
         vantagens: [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
@@ -10,7 +10,7 @@ const apps = [
     },
     {
         nome: "IPTV Play",
-        url: "../images/moreImages/02.png",
+        url: "./images/moreImages/02.png",
         vantagens: [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
@@ -19,7 +19,7 @@ const apps = [
     },
     {
         nome: "IPTV Smarters",
-        url: "../images/moreImages/03.jpg",
+        url: "./images/moreImages/03.jpg",
         vantagens: [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
@@ -28,7 +28,7 @@ const apps = [
     },
     {
         nome: "XC IPTV",
-        url: "../images/moreImages/04.jpg",
+        url: "./images/moreImages/04.jpg",
         vantagens: [
             "App Exclusivo!",
             "Funciona em qualquer dispositivo Android!"
